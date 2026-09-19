@@ -1,0 +1,71 @@
+<script setup>
+
+import EventCard from '../components/EventCard.vue'
+
+import { ref } from 'vue'
+
+const events = ref([
+  {
+    id: 1,
+    title: 'Vue.js Conference',
+    date: '2024-07-15',
+    location: 'San Francisco, CA',
+    description: 'Join us for a day of Vue.js talks and workshops.'
+  },
+  {
+    id: 2,
+    title: 'JavaScript Meetup',
+    date: '2024-08-20',
+    location: 'New York, NY',
+    description: 'A meetup for JavaScript enthusiasts to network and learn.'
+  },
+  {
+    id: 3,
+    title: 'Frontend Masters Workshop',
+    date: '2024-09-10',
+    location: 'Online',
+    description: 'An online workshop covering advanced frontend development techniques.'
+  },
+  {
+    id: 4,
+    title: 'Tech Expo 2024',
+    date: '2024-10-05',
+    location: 'Los Angeles, CA',
+    description: 'Explore the latest in technology and innovation at Tech Expo 2024.'
+  },
+  {
+    id: 5,
+    title: 'Open Source Summit',
+    date: '2024-11-12',
+    location: 'Chicago, IL',
+    description: 'A summit for open source developers and enthusiasts.'
+  },
+  {
+    id: 6,
+    title: 'Web Development Bootcamp',
+    date: '2024-12-01',
+    location: 'Austin, TX',
+    description: 'A comprehensive bootcamp covering modern web development practices.'
+  }
+
+])
+
+</script>
+
+<template>
+  <div class="events">
+    <EventCard v-for="event in events" :key="event.id" :event="event" />
+  </div>
+</template>
+
+<style scoped>
+.events {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+</style>
