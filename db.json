@@ -62,6 +62,153 @@
       "date": "2026-09-22",
       "location": "Denver, CO",
       "description": "A hands-on event showcasing advanced frontend design, AI tooling, and scalable UX."
+    },
+    {
+      "id": 10,
+      "title": "Vue New Year Kickoff",
+      "date": "2026-01-08",
+      "location": "Miami, FL",
+      "description": "Kick off the year with Vue community updates, networking, and product demos."
+    },
+    {
+      "id": 11,
+      "title": "State of the Web 2026",
+      "date": "2026-01-22",
+      "location": "Phoenix, AZ",
+      "description": "A one-day event covering frontend trends, accessibility, and the future of web apps."
+    },
+    {
+      "id": 12,
+      "title": "Advanced JavaScript Lab",
+      "date": "2026-02-03",
+      "location": "Chicago, IL",
+      "description": "Hands-on labs for async patterns, performance tuning, and JS architecture."
+    },
+    {
+      "id": 13,
+      "title": "Vue Ecosystem Meetup",
+      "date": "2026-02-28",
+      "location": "Portland, OR",
+      "description": "Meet with Vue enthusiasts and explore plugins, tooling, and migration strategies."
+    },
+    {
+      "id": 14,
+      "title": "Design Systems Forum",
+      "date": "2026-03-12",
+      "location": "New York, NY",
+      "description": "Designers and developers discuss scalable UI systems and modern component design."
+    },
+    {
+      "id": 15,
+      "title": "Frontend Performance Summit",
+      "date": "2026-03-26",
+      "location": "Austin, TX",
+      "description": "Learn optimization strategies for bundle size, rendering, and user experience."
+    },
+    {
+      "id": 16,
+      "title": "AI for Frontend Developers",
+      "date": "2026-04-09",
+      "location": "San Jose, CA",
+      "description": "A practical look at AI-assisted development, UX, and intelligent product workflows."
+    },
+    {
+      "id": 17,
+      "title": "Node and Vue Integration Day",
+      "date": "2026-04-21",
+      "location": "Seattle, WA",
+      "description": "Explore how Vue and modern backend tooling work together in production."
+    },
+    {
+      "id": 18,
+      "title": "Component Architecture Workshop",
+      "date": "2026-05-14",
+      "location": "Atlanta, GA",
+      "description": "Build maintainable frontend systems with patterns for composability and scale."
+    },
+    {
+      "id": 19,
+      "title": "Progressive Web App Expo",
+      "date": "2026-06-05",
+      "location": "Denver, CO",
+      "description": "Discover strategies for secure, installable, and high-performance PWAs."
+    },
+    {
+      "id": 20,
+      "title": "Full Stack Frontend Meetup",
+      "date": "2026-06-17",
+      "location": "Nashville, TN",
+      "description": "A community meetup focused on end-to-end JavaScript and modern product teams."
+    },
+    {
+      "id": 21,
+      "title": "Accessibility in Practice",
+      "date": "2026-07-02",
+      "location": "Minneapolis, MN",
+      "description": "Learn practical accessibility patterns that improve usability for every user."
+    },
+    {
+      "id": 22,
+      "title": "Vue DevTools Showcase",
+      "date": "2026-07-16",
+      "location": "Las Vegas, NV",
+      "description": "See the latest dev tooling, debugging patterns, and ecosystem innovations."
+    },
+    {
+      "id": 23,
+      "title": "JavaScript Security Forum",
+      "date": "2026-08-06",
+      "location": "Boston, MA",
+      "description": "Discuss secure coding practices, dependency hygiene, and web safety."
+    },
+    {
+      "id": 24,
+      "title": "Serverless Frontend Summit",
+      "date": "2026-08-19",
+      "location": "San Diego, CA",
+      "description": "Explore serverless patterns for scalable frontend delivery and API integration."
+    },
+    {
+      "id": 25,
+      "title": "UX Engineering Week",
+      "date": "2026-09-01",
+      "location": "Portland, ME",
+      "description": "A week of sessions covering UX research, prototyping, and frontend collaboration."
+    },
+    {
+      "id": 26,
+      "title": "Vue 3.5 Preview Event",
+      "date": "2026-09-29",
+      "location": "Chicago, IL",
+      "description": "Preview upcoming Vue features, migration support, and ecosystem trends."
+    },
+    {
+      "id": 27,
+      "title": "GraphQL and Vue Workshop",
+      "date": "2026-10-07",
+      "location": "Los Angeles, CA",
+      "description": "Hands-on workshop for integrating GraphQL APIs with Vue applications."
+    },
+    {
+      "id": 28,
+      "title": "Testing Frontend at Scale",
+      "date": "2026-10-20",
+      "location": "Columbus, OH",
+      "description": "Learn reliable testing patterns for teams building complex user interfaces."
+    },
+    {
+      "id": 29,
+      "title": "DevRel and Community Meetup",
+      "date": "2026-11-11",
+      "location": "Washington, DC",
+      "description": "Join community leaders for talks on developer relations and open source growth."
+    },
+    {
+      "id": 30,
+      "title": "Holiday Frontend Fest",
+      "date": "2026-12-03",
+      "location": "New Orleans, LA",
+      "description": "Celebrate the end of the year with product showcases, workshops, and networking."
     }
   ]
 }
