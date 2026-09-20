@@ -41,6 +41,27 @@
       "date": "2024-12-01",
       "location": "Austin, TX",
       "description": "A comprehensive bootcamp covering modern web development practices."
+    },
+    {
+      "id": 7,
+      "title": "Vue 3 Summit",
+      "date": "2026-02-14",
+      "location": "Seattle, WA",
+      "description": "A conference focused on Vue 3, ecosystem tooling, and modern frontend architecture."
+    },
+    {
+      "id": 8,
+      "title": "JavaScript World",
+      "date": "2026-05-08",
+      "location": "Boston, MA",
+      "description": "Explore the latest JavaScript frameworks, performance patterns, and developer tooling."
+    },
+    {
+      "id": 9,
+      "title": "Frontend Innovation Expo",
+      "date": "2026-09-22",
+      "location": "Denver, CO",
+      "description": "A hands-on event showcasing advanced frontend design, AI tooling, and scalable UX."
     }
   ]
 }
